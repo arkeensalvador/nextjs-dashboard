@@ -28,7 +28,6 @@
         "./*"
       ]
     },
-    "ignoreDeprecations": "6.0" //FIX FOR THE 
   },
   "include": [
     "next-env.d.ts",
